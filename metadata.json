@@ -1,0 +1,6 @@
+{
+  "name": "Duik Angela",
+  "description": "After Effects Duik Angela 2D rigging, puppet pin deformation, Inverse Kinematics (IK), and timeline animation tool for images and manga art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
